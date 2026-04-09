@@ -1,3 +1,6 @@
 [submodule "Yonderfall"]
 	path = Yonderfall
 	url = https://github.com/MihailJordanov/Yonderfall
+[submodule "project/Yonderfall"]
+	path = project/Yonderfall
+	url = https://github.com/MihailJordanov/Yonderfall
